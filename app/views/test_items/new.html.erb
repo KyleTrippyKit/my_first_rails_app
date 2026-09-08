@@ -1,0 +1,11 @@
+<% content_for :title, "New test item" %>
+
+<h1>New test item</h1>
+
+<%= render "form", test_item: @test_item %>
+
+<br>
+
+<div>
+  <%= link_to "Back to test items", test_items_path %>
+</div>
