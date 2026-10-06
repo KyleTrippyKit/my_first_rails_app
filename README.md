@@ -1,24 +1,29 @@
-# README
+My First Rails App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+My First Rails App is a Ruby on Rails application I built while working through The Odin Project's Ruby on Rails curriculum.
 
-Things you may want to cover:
+The project was used to learn the basics of Rails, including creating applications, working with routes, controllers, views, models, forms, and scaffolding.
 
-* Ruby version
+Features
+Created a Rails application from scratch
+Created Car and Truck resources using Rails scaffolding
+View, create, edit, and delete cars
+View, create, edit, and delete trucks
+Worked with Rails routes and controllers
+Used ERB views and Rails forms
+Practiced working with Turbo Drive and page navigation
+Built With
+Ruby
+Ruby on Rails
+SQLite3
+ERB
+Turbo
+Propshaft
+Importmap
+Git
+GitHub
+The Odin Project
 
-* System dependencies
+This project was completed while following The Odin Project's Ruby on Rails curriculum.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://www.theodinproject.com/
